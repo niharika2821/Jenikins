@@ -16,7 +16,7 @@ public class firsttest {
 		//<span text="login"> Login </span>
 		//driver.findElement(By.id("hr_v2")).click();
 		System.out.println("capgeminifirstprjt");
-		System.out.println("demo");
+		System.out.println("Sample");
 		// TODO Auto-generated method stub
 	}
 
